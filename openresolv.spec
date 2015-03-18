@@ -1,11 +1,11 @@
 Summary:	DNS management framework
 Name:		openresolv
-Version:	3.6.1
+Version:	3.6.2
 Release:	1
 License:	BSD-like
 Group:		Base
 Source0:	http://roy.marples.name/downloads/openresolv/%{name}-%{version}.tar.bz2
-# Source0-md5:	f385e26ec0f9cd06d8ccd45fc219002e
+# Source0-md5:	8416f07cc65b535578dc70e86bbed54f
 URL:		http://roy.marples.name/projects/openresolv
 BuildRequires:	sed
 Requires:	systemd
